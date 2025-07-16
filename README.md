@@ -1,5 +1,5 @@
 # ToDoApp
-    ![menu](gambar/UI.png)
+    ![UI](gambar/UI.png)
 Aplikasi To-Do List ini adalah proyek front-end yang saya bangun untuk mempraktikkan dan mendemonstrasikan kemampuan dasar pengembangan web. Proyek ini dirancang untuk membantu pengguna mengelola tugas harian secara efisien dengan berbagai fitur canggih. Aplikasi ini dibangun murni menggunakan HTML, CSS, dan JavaScript tanpa bantuan framework, untuk menunjukkan pemahaman yang kuat pada teknologi inti web.
 
 ### Fitur Utama
